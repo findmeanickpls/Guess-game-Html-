@@ -1,0 +1,62 @@
+body{
+   
+}
+
+h1{
+    background-color: purple;
+    width:600px ;
+    text-align: center;
+    margin-left: 410px;
+}
+
+.head p{
+    margin-left: 510px;
+    font-size: 20px;
+}
+
+#wrapper{
+    background-color: aqua;
+    height: 400px;
+    width: 600px;
+    margin-left: 410px;
+}
+
+.resultParas{
+    color: white;
+    margin-left: 250px;
+   margin-top: 150px;
+   font-size: 15px;
+}
+
+input.guessField{
+    margin-top:60px;
+    margin-left:100px ;
+    float: left;
+    height: 60px;
+    width: 400px;
+    
+    
+}
+
+input.guessSubmit{
+
+    float: left;
+    margin-top: 30px;
+    margin-left: 210px;
+    border: none;
+    border-radius: 20px;
+    width: 210px;
+    height: 30px;
+    background-color: yellow;
+    font-size: 15px;
+
+}
+#guess{
+    margin-left: -315px;
+    color: white;
+    font-size: 40px;
+    margin-bottom: -700px;
+    text-align: center;
+    
+}
+
